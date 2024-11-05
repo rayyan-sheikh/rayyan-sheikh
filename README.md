@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack developer looking for opportunities to make contribution through my skills.<br>Backend: Node.js, Java Spring Boot.<br>Frontend: React.js, CSS, TailwindCSS.<br>Database: MySQL, PostgreSQL, MongoDB
+I'm a full-stack developer looking for opportunities to make contribution through my skills.<br>Backend: Node.js, Java Spring Boot.<br>Frontend: React.js. <br>Design: CSS, TailwindCSS.<br>Database: MySQL, PostgreSQL, MongoDB
 
 
 ## 🌐 Socials:
