@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a full-stack developer looking for opportunities to make contribution through my skills.<br>Backend: Node.js, Java Spring Boot.<br>Frontend: React.js. <br>Design: CSS, TailwindCSS.<br>Database: MySQL, PostgreSQL, MongoDB
-[My Portfolio](https://rayyansheikh.vercel.app/)
+<br>
+
+<a href="https://rayyansheikh.vercel.app/" style="font-size: 24px; font-weight: bold;">My Portfolio</a>
 
 
 ## 🌐 Socials:
